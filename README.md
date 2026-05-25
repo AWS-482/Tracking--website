@@ -1,6 +1,6 @@
 # Attendance Tracker
 
-A simple attendance tracking web application.
+A simple attendance tracking web application for attendance 
 
 ## Setup
 
